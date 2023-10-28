@@ -8,10 +8,10 @@ I am a backend developer with a passion to craft robust and efficient server-sid
 
 
 * 🌍  I'm based in Lokoja
-* * ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)
-  * * 🧠  I'm learning Node.JS
-    * * 🤝  I'm open to collaborating on Projects
-      * * ⚡  In free time, I love to listen to music, play games and surf the Internet.
+* ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)
+* 🧠  I'm learning Node.JS
+* 🤝  I'm open to collaborating on Projects
+* ⚡  In free time, I love to listen to music, play games and surf the Internet.
 
 ### Skills
 
