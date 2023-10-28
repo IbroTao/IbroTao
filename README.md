@@ -1,4 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Taofeek=======================================================================================================================================Backend Developer-----------------I am a backend developer with a passion to craft robust and efficient server-side solutions. Proficient in a variety of programming languages and technologies, specializing in building scalable and performant APIs and databases. Dedicated to creating seamless user experiences and solving complex problems through code.* 🌍  I'm based in Lokoja* ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)* 🧠  I'm learning Node.JS* 🤝  I'm open to collaborating on Projects* ⚡  In free time, I love to listen to music, play games and surf the Internet.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Taofeek
+=======================================================================================================================================
+
+Backend Developer
+-----------------
+
+I am a backend developer with a passion to craft robust and efficient server-side solutions. Proficient in a variety of programming languages and technologies, specializing in building scalable and performant APIs and databases. Dedicated to creating seamless user experiences and solving complex problems through code.
+
+* 🌍  I'm based in Lokoja
+* ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)
+* 🧠  I'm learning Node.JS*
+* 🤝  I'm open to collaborating on new projects
+* ⚡  In my free time, I like to listen to music, play games and surf the Internet.
 
 ### Skills
 
