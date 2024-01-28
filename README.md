@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-* 🌍  I'm based in Lokoja*
-*  ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)*
-*  🤝  I'm open to collaborating on exicting and new ideas we could turn to a remarkable project* 
+* 🌍  I'm based in Lokoja
+*  ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)
+*  🤝  I'm open to collaborating on exicting and new ideas we could turn to a remarkable project
 
 <a href="https://www.github.com/IbroTao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IbroTao?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
