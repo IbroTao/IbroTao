@@ -1,12 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taofeek Ibrahim
-=======================================================================================================================================
+<h1 align=center>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Taofeek Ibrahim</h1
+<h1 align=center>I'm a Backend Web Developer</h1>
 
-Backend Developer
------------------
 
-* 🌍  I'm based in Lokoja
-*  ✉️  You can contact me at [ibrahimtaofeek005@gmail.com](mailto:ibrahimtaofeek005@gmail.com)
-*  🤝  I'm open to collaborating on exicting and new ideas we could turn to a remarkable project
+### 👨🏻‍💻 &nbsp;About Me
+✍️ &nbsp;I am a backend web developer\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🤝  I'm open to collaborating on exicting and new ideas we could turn to a remarkable project.\
+🌱 &nbsp;I'm on track to learn more on Software Development and Machine Learning and Data Analysis and Mining.\
+✍️ &nbsp;In my free time, I surf the Internet, listen to music and watch football matches.\
+✉️ &nbsp;You can shoot me an email at [ibrahimtaofeek005@gmail.com] I'll try to respond as soon as I can.
+
 
 <a href="https://www.github.com/IbroTao" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IbroTao?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
