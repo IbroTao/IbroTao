@@ -1,4 +1,5 @@
-<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Taofeek</h2>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Taofeek -->
 
