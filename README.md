@@ -1,5 +1,5 @@
-<h1 align=center>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Taofeek Ibrahim</h1
-<h1 align=center>I'm a Backend Web Developer</h1>
+<h1 align=center>Hi 👋, I'm Taofeek Ibrahim</h1
+<h1 align=center>I'm a Backend Web Developer</h3>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
