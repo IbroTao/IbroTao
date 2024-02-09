@@ -1,5 +1,5 @@
 <h1 align=center>Hi 👋, I'm Taofeek Ibrahim</h1
-<h1 align=center>I'm a Backend Web Developer</h3>
+<h1 align=center>I'm a Backend Web Developer</h1>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
