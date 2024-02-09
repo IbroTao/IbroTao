@@ -1,6 +1,6 @@
-<h1 align=center>Hi 👋, I'm Taofeek Ibrahim</h1
-<h1 align=center>I'm a Backend Web Developer</h1>
+<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Taofeek</h2>
 
+<!-- ## 👋 &nbsp;Hey there! I'm Taofeek -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 ✍️ &nbsp;I am a backend web developer\
