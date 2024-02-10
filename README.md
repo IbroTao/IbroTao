@@ -17,11 +17,9 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ## Let's connect! 👇🏼
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adiatiayu/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
 <a href="https://twitter.com/divexmann"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
-<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
-<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
-<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
+
 </div>
 
 <br> 
@@ -46,7 +44,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 
-### In my learning list
+### In My Learning List
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
@@ -66,8 +64,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 <a href="https://github.com/IbroTao"></a>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=IbroTao&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88&theme=algolia&custom_title=My GitHub Stats""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=IbroTao&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&hide=pug, handlebars&langs_count=8&card_width=450&custom_title=Ibrahimm Taofeek's Most Used Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=C7CCFF""https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
 <br> 
