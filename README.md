@@ -39,7 +39,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Sublime Text]https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
@@ -63,10 +63,11 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=IbroTao&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88&custom_title=My GitHub Stats""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats">
+<a href="https://github.com/IbroTao"></a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=IbroTao&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88&theme=algolia&custom_title=My GitHub Stats""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=IbroTao&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbroTao&layout=compact&hide=pug, handlebars&card_width=450&custom_title=Ibrahimm Taofeek's Most Used Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=C7CCFF""https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
- 
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&hide=pug, handlebars&langs_count=8&card_width=450&custom_title=Ibrahimm Taofeek's Most Used Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=C7CCFF""https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
+
 </div>
 
 <br> 
