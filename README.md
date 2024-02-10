@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"><h2>Hi, I'm Taofeek</h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Taofeek -->
