@@ -1,5 +1,3 @@
-![Ibrahim Taofeek Banner](https://user-images.githubusercontent.com/45172775/179356306-9a3522a8-b26d-47b8-bfdf-bd052dbb36ce.svg)
-
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 I'm a back-end developer based Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
@@ -34,7 +32,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext)\
@@ -59,13 +57,13 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/IbroTao"></a>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=IbroTao&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88&theme=algolia&custom_title=My GitHub Stats""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats">
+<p align="center">
+<a href="https://github.com/IbroTao">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&langs_count=8&theme=algolia"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=IbroTao&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&langs_count=8&theme=algolia"/>
-</div>
+</a>
+</p>
 
 <br> 
 
