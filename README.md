@@ -13,6 +13,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 :sparkles: When I'm not coding, you'll find me enjoying precious moments with my family, watching live football matches, getting creative with drawing portraits, or simply relaxing with a good movie.
 
 ## Let's connect! 👇🏼
+![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blueviolet)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
