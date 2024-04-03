@@ -6,7 +6,7 @@ I **love learning something new** and **sharing my learnings and experiences** w
 
 But there's more to me than just coding. I deeply value **collaborations**. I have big interest in **open source**, and enjoy being an active part of the **tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
 
-## Fun Fact
+## Fun Facts
       
 🗣 I can speak two languages: Yoruba and English.
 
