@@ -8,7 +8,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 
 ## Fun Facts
       
-🗣 I can speak two languages: Yoruba and English.
+🗣 I am fluent in two languages: Yoruba and English.
 
 :sparkles: When I'm not coding, you'll find me enjoying precious moments with my family, watching live football matches, getting creative with drawing portraits, or simply relaxing with a good movie.
 
