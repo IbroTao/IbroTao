@@ -1,5 +1,7 @@
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
+![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
+
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
 I **love learning something new** and **sharing my learnings and experiences** with others through [X](https://twitter.com/divexmann). It's my way of giving back, spreading knowledge, and learning together.
@@ -13,7 +15,6 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 :sparkles: When I'm not coding, you'll find me enjoying precious moments with my family, watching live football matches, getting creative with drawing portraits, or simply relaxing with a good movie.
 
 ## Let's connect! 👇🏼
-![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blueviolet)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
