@@ -2,8 +2,25 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/IbroTao/IbroTao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/IbroTao/IbroTao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+# My Project
+
+This is a sample project to demonstrate how to include a folder structure in a README file.
+
+## Folder Structure
+
+```plaintext
+.
+├── README.md
+├── src
+│   ├── index.js
+│   └── app.js
+├── workflows
+│   ├── workflow1.yml
+│   ├── workflow2.yml
+│   └── subfolder
+│       └── subworkflow.yml
+└── package.json
+
 
 
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
