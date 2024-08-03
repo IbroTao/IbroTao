@@ -2,6 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/IbroTao/IbroTao/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/IbroTao/IbroTao/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
 I **love learning something new** and **sharing my learnings and experiences** with others through [X](https://twitter.com/divexmann). It's my way of giving back, spreading knowledge, and learning together.
