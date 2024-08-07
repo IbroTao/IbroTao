@@ -1,7 +1,6 @@
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
-[![wakatime](https://wakatime.com/badge/user/018b9290-3c11-4feb-9996-94169695bbd8.svg)](https://wakatime.com/@018b9290-3c11-4feb-9996-94169695bbd8)
 
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
@@ -28,13 +27,13 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<div align="center">
 <a href="https://github.com/IbroTao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&langs_count=8&theme=algolia"/>
   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=IbroTao&layout=compact&theme=algolia&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak"/>
 </a>
-</p>
+</div>
 
 <br> 
 
