@@ -1,6 +1,7 @@
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
+[![wakatime](https://wakatime.com/badge/user/018b9290-3c11-4feb-9996-94169695bbd8.svg)](https://wakatime.com/@018b9290-3c11-4feb-9996-94169695bbd8)
 
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
