@@ -16,29 +16,19 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 
 ## Let's connect! 👇🏼
 
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
 <a href="https://twitter.com/divexmann"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
-
 </div>
 
-<br> 
-
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
-
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center">
+<div align="left">
 <a href="https://github.com/IbroTao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 
-<br> 
-
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
-
-<div align="center">
-  
+<div align="center">  
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
 <br> End is not the end. In fact, E.N.D. means "Effort Never Dies"; 
 <br> If you get no as an answer, remember: N.O. means "Next Opportunity";
