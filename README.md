@@ -26,6 +26,6 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="left">
 <a href="https://github.com/IbroTao">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=ligt blue&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
 </a>
 </div>
