@@ -24,7 +24,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&locale=en&theme=angolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IbroTao&layout=compact&langs_count=8&theme=algolia"/>
+  <!--<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&locale=en&theme=angolia&include_all_commits=true&count_private=true"/>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IbroTao&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" /></p>-->
