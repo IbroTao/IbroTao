@@ -1,12 +1,12 @@
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
-
 I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
 I **love learning something new** and **sharing my learnings and experiences** with others through [X](https://twitter.com/divexmann). It's my way of giving back, spreading knowledge, and learning together.
 
 But there's more to me than just coding. I deeply value **collaborations**. I have big interest in **open source**, and enjoy being an active part of the **tech communities**. I believe in the power of diverse perspectives and inclusion, and I'm committed to fostering an environment where everyone feels safe, supported, and empowered.
+
+![Profile views](https://komarev.com/ghpvc/?username=IbroTao&color=blue)
 
 ## Fun Facts
       
@@ -26,6 +26,6 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="left">
 <a href="https://github.com/IbroTao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
 </a>
 </div>
