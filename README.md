@@ -21,22 +21,11 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 <a href="https://twitter.com/divexmann"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
 </div>
 
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="left">
 <a href="https://github.com/IbroTao">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IbroTao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </div>
-
-<div align="center">  
-> If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
-<br> End is not the end. In fact, E.N.D. means "Effort Never Dies"; 
-<br> If you get no as an answer, remember: N.O. means "Next Opportunity";
-<br> **- *A.P.J. Abdul Kalam* -**
-
-![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
-  
-</div>
-
-![Footer](https://user-images.githubusercontent.com/45172775/179351922-cb6ccac8-0740-4b83-a43e-68569875206d.svg)
-
