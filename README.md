@@ -17,7 +17,7 @@ But there's more to me than just coding. I deeply value **collaborations**. I ha
 ## Let's connect! 👇🏼
 
 <div>
-<a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>
+<!--<a href="https://www.linkedin.com/in/taofeek-ibrahim-75370029a/"><img src="https://img.shields.io/badge/-LinkedIn-F3F7FA?logo=linkedin&logoColor=0A66C2&style=for-the-badge&logoWidth=30" alt="LinkedIn"></a>-->
 <a href="https://twitter.com/divexmann"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
 </div>
 
