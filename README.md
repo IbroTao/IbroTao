@@ -1,5 +1,7 @@
 # Hi there! I'm Taofeek! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
+Reach out to me via my email: ibrahimtaofeek005@gmail.com
+
 <!--I'm a back-end developer based in Nigeria. My real passion lies in creating projects that are **accessible** to everyone, ensuring that technology is inclusive and user-friendly.
 
 I **love learning something new** and **sharing my learnings and experiences** with others through [X](https://twitter.com/divexmann). It's my way of giving back, spreading knowledge, and learning together.
